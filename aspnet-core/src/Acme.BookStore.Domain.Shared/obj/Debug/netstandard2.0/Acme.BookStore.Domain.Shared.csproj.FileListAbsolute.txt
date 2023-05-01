@@ -1,0 +1,11 @@
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.deps.json
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.AssemblyReference.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Domain.Shared\obj\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb

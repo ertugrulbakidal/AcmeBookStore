@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Acme.BookStore
+build_property.ProjectDir = F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.HttpApi.Client\

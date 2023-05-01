@@ -1,0 +1,13 @@
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.deps.json
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.dll
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\bin\Debug\netstandard2.0\Acme.BookStore.Domain.Shared.pdb
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.AssemblyReference.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.AssemblyInfoInputs.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.AssemblyInfo.cs
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.csproj.CopyComplete
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.dll
+F:\GithubWorkspace\Acme.BookStore\aspnet-core\src\Acme.BookStore.Application.Contracts\obj\Debug\netstandard2.0\Acme.BookStore.Application.Contracts.pdb
